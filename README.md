@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=xB0t&style=flat-square&color=blue" alt=""/>
 <!--
 **xB0t/xB0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
